@@ -62,7 +62,7 @@ li {
     object-fit: contain;
 }
 .find-future-column-image {
-    background: url('/images/background-image.png');
+    background: url('../images/background-image.png');
     padding: 60px 5% 60px 20px;
     background-repeat: no-repeat;
     background-position: center right;
